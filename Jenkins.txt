@@ -2,3 +2,4 @@ This is MyFile
 This is mysecondfile
 this is my thirdline
 fourth
+six
