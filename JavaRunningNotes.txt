@@ -1,0 +1,163 @@
+18-3-2024
+-----------
+Exception 
+-----------
+Exception is nothing but unwanted unexcepted event that disturb normal flow of execution of the program
+
+Exception Handling
+----------------------
+Exception handling is a mechanism which is used to handle exception by using 
+Try
+catch
+finally
+throws 
+throw
+
+try
+----
+try is used to write risky code 
+try is also associated with either catch or finally block
+
+riskycode
+----------
+the code that can be throws an exception is called risky code
+
+catch
+------
+in this block we write the handling code
+
+finally block
+-----------------
+finally block is used to write a cleanup code
+finally block will execute irrespectively whether exception is there or not
+finally block associate with try
+
+throws
+----------
+it is keyword which is declare at method level
+it is used to deligate the exception outside the method
+
+throw
+-------
+it is keword it is used inside the method
+it is bascially used create instance explicitly of the exception and handover to the jvm
+
+Collection
+-------------
+collection which represent group of objects in as single entity is called collection
+according to sunmicro system collection is root interface of collection framework
+collection frame work
+-----------------------
+collection framework is defined as group of classes,objects of java.util.package
+
+collections
+---------------
+collections is a utility class where the  sunmicro system has defined all the static methods to perform operations 
+which can do in the following categories
+List
+Set
+Queue
+Map
+
+Wrapper Class
+--------------
+wrapper class nothing but which can hold a feild where it store a value
+
+AutoBoxing
+------------
+Autoboxing nothing but automatcially converting primitive datatype to object 
+by the compiler is called as autoboxing
+
+19-3-2024
+----------
+List
+----
+This category is used to group of individual objects where duplicates are allowed
+it is interface we cant create object but can hold instance of its following implementation classes
+Array List
+Linked List
+vector 
+stack
+Map
+-----
+It is interface which is define inside th java.util.package
+it is used to group of objects in the form of key and value pair where key and value should be object
+key doesnt allow duplicates and value allow duplicates 
+it is interface we cant create object but can hold object of its implementation classs
+hashmap
+linkedhashmap
+identity hashmap
+treemap
+properties
+hash table
+
+set
+----
+it is interface and child interface of collection
+where we can store a group of individual objects
+duplicates are not allowed
+it is interface we cant create object but can hold on object of its implemenatation classes
+Hashset
+Linked Hashset
+treeset
+
+Garabge Collector
+-----------------
+Garabagecollector is used to remove unsed memory automatically
+whenever execute the program gabarage collector come to the picture it looks unsed thinks
+
+Generic class
+--------------
+it represents type safe
+it means it can accept any datatype
+
+Super Keyword
+--------------
+in java,super keyword is used to refer immediate parent class of child class
+
+this keyword
+-------------
+in java,the main purpose of this keyword is used to slove confusion when we have the same variable name for instance and local variables
+
+=====================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
