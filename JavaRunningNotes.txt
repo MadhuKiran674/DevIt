@@ -118,15 +118,42 @@ in java,super keyword is used to refer immediate parent class of child class
 this keyword
 -------------
 in java,the main purpose of this keyword is used to slove confusion when we have the same variable name for instance and local variables
+20-3-2024
+-------------
+
+Array list
+-------------
+it is implementation class list interface
+duplicates are allowed
+internally it follows resizable array datastructure
+Linked list
+-------------
+internally it follows doubly linked list
+
+variables
+---------------
+variables are used to store data
+variables is divided into 3 type
+global/instance/non static variables
+static variables
+local variables
+
+Instance Variables
+-----------------------
+instance variables which is declare inside the class and outside the method
+when we create 2 objects, then 2 times memory will be allocated in the jvm
+
+Static variables
+-------------------
+static variables which is declare inside the class and outside the method by using static keyword
+memory will be allocated for static static variables only once when class is loaded into jvm
+
+static
+--------
+static is keyword ,which is indicates the particular method can access directly by using class name
+
 
 =====================================================================================
-
-
-
-
-
-
-
 
 
 
